@@ -1,0 +1,4 @@
+Assignment1, Yay;100 
+Assignment2, Ummm;65 
+Assignment3, Almost;90 
+Assignment4, Better;77
