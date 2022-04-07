@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+This is a repository containing many projects that I 've completed while wokring towards my degree in the Smead Aerospace Program at CU Boulder
+
 
 <!--
 **tylercandler/TylerCandler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
