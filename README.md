@@ -1,5 +1,5 @@
 ### Hi there 👋 
-This is a repository containing many projects that I 've completed while wokring towards my degree in the Smead Aerospace Program at CU Boulder
+This is a repository containing many projects that I've completed while wokring towards my degree in the Smead Aerospace Program at CU Boulder
 
 
 <!--
